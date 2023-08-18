@@ -1,3 +1,13 @@
+# Google Keep Clone - React Native
+
+This is a simple note-taking app inspired by Google Keep, built using React Native.
+
+## Features
+
+- Create, edit, and delete notes.
+- Search functionality to find specific notes.
+- Responsive design suitable for various devices.
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
